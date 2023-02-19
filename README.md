@@ -68,7 +68,8 @@ Liens utile pour travailler:
        - Total du solde renouvelable du client
    - Avg_Open_To_Buy (Integer): 
        - Average open to buy ratio of customer 
-       - Ratio moyen d'ouverture sur achat du client
+       - taux moyen d'ouverture à l'achat du client, indique le ratio entre les publicités reçu par le client et ceux qu'ils consultent.
+         
    - Total_Amt_Chng_Q4_Q1 (Integer): 
        - Total amount changed from quarter 4 to quarter 1 
        - Montant total modifié du trimestre 4 au trimestre 1
@@ -106,7 +107,7 @@ Liens utile pour travailler:
 | 13 | **Contacts_Count_12_mon** | Nombres de contacts par la banque le client a eu durant les 12 derniers mois |    `Integer` | *Continue* | - 
 | 13 | **Credit_Limit** | Limite de crédit du client      |    `Integer` | *Continue* | - 
 | 14 | **Total_Revolving_Bal** | Total du solde renouvelable du client  | `Integer` | *Discrete*| - 
-| 15 | **Avg_Open_To_Buy** | Ratio moyen d'ouverture sur achat du client | `Integer` | *Continue*| - 
+| 15 | **Avg_Open_To_Buy** | taux moyen d'ouverture à l'achat du client, indique le ratio entre les publicités reçu par le client et ceux qu'ils consultent | `Integer` | *Continue*| - 
 | 16 | **Total_Amt_Chng_Q4_Q1** | Montant total modifié du trimestre 4 au trimestre 1 |    `Integer` | *Continue* | - 
 | 17 | **Total_Trans_Amt** | Montant total de la transaction |    `Integer` | *Continue* | - 
 | 18 | **Total_Trans_Ct** | Nombre total de transactions |    `Integer` | *Continue* | - 
