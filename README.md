@@ -16,17 +16,6 @@ lien des dataset:
 Cet jeu de données fournit des informations sur les clients pour prédire l'attrition des clients pour un portefeuille de cartes de crédit grand public
 
 
-Liens utile pour travailler:
-(https://www.kaggle.com/code/selener/prediction-of-credit-card-default)
-
-(https://www.centralbank.ie/statistics/data-and-analysis/credit-and-debit-card-statistics)
-
-(https://www.centralbank.ie/docs/default-source/statistics/data-and-analysis/credit-and-banking-statistics/credit-and-debit-card-statistics/2022_dec_ie_credit_debit_cards.pdf?sfvrsn=bca9981d_3)
-
-(https://www.analyticsvidhya.com/blog/2021/10/credit-card-lead-prediction-complete-project-using-lgbm-classification-model/)
-
-(https://www.hindawi.com/journals/ddns/2021/5080472/)
-
 
 ## Définition des colonnes : 
 
