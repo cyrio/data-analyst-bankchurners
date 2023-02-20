@@ -87,7 +87,7 @@ Liens utile pour travailler:
        - Taux d'utilisation moyen du client
    Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Dependent_count_Education_Level_Months_Inactive_12_mon_1: Naive Bayes classifier for predicting whether or not someone will churn based on characteristics such
    
-   Ci dessous le calssement des variables par types:
+   Ci dessous le classement des variables par types:
    
    
 | N°  | Variables       | Définition      | Types   |  Quantitative?    |  Qualitative?|
